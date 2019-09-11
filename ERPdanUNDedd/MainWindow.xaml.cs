@@ -23,6 +23,8 @@ namespace ERPdanUNDedd
         public MainWindow()
         {
             InitializeComponent();
+
+            //bla
         }
     }
 }
